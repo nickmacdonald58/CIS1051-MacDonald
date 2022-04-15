@@ -4,7 +4,7 @@
 
 1)Senior Design data clenser, information interpretation
 2)Black jack style game with different strategies, Monte Carlo simulation for strategies
-3)2D game(unknown approach as least interested in this idea)
+3)2D game(unknown approach as least interested in this idea, pygame style though)
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
