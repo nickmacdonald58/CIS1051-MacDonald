@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Nick MacDonald
 
 #### Your section leader's name
 
-TODO
+Nichols
 
 #### Project title
 
-TODO
+Scheduling Optimization Cleanser
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+As of now the code will clean the model's data and store it on a new sheet.
 
 #### What have you not done for your project yet?
 
-TODO
+Analysis of the data has not been done in a meaningful way yet.
 
 #### What problems, if any, have you encountered?
 
-TODO
+First deciding what library to use within Python was frustrating. After getting the hang of openpyxl, the first time running the code saved the excel file in an'unusable format' although I am sure it was correct. This loced me out of the excel file but I was able to recover a past version with minimal damage to my progress. Now I must change the code so that it creates a new file so it does not ruin the Excel Macro's I have made once I fix them.
